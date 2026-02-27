@@ -48,4 +48,3 @@ streamlit run main.py
 
 ### Candidate Ranking
 ![Candidate Ranking](screenshots/ranking.png)
-
