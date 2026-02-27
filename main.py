@@ -168,4 +168,4 @@ if st.button("🔍 Analyze Resumes"):
                     st.error("❌ Missing Skills")
                     st.write(", ".join(r["Missing"]) if r["Missing"] else "None")
 
-                st.markdown("---")
+                st.markdown("---") 
