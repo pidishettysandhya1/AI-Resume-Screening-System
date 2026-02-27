@@ -1,0 +1,3 @@
+We are looking for a Python developer with knowledge in NLP,
+machine learning, data analysis, pandas, numpy and scikit-learn.
+Experience with AI projects is preferred.
