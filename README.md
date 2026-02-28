@@ -44,7 +44,7 @@ streamlit run main.py
 ## 📸 Project Output
 
 ### ATS Dashboard
-![ATS Dashboard](screenshots/dashboard.png)
+![ATS Dashboard](./screenshots/dashboard.png)
 
 ### Candidate Ranking
-![Candidate Ranking](screenshots/ranking.png)
+![Candidate Ranking](./screenshots/ranking.png)
