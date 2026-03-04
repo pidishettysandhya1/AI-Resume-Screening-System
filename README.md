@@ -48,3 +48,9 @@ streamlit run main.py
 
 ### Candidate Ranking
 ![Candidate Ranking](https://github.com/pidishettysandhya1/AI-Resume-Screening-System/raw/main/screenshots/ranking.png)
+
+
+## 👩‍💻 Author
+Sandhya Pidishetty 
+Computer Science Engineering (AI & ML) Student  
+Aspiring Software Engineer | Java | DSA | AI/ML
