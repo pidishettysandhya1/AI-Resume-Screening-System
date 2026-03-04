@@ -37,6 +37,7 @@ This system helps recruiters quickly identify the best candidates by calculating
 ---
 
 ## ▶️ Run Project
+
 ```bash
 pip install -r requirements.txt
 streamlit run main.py
