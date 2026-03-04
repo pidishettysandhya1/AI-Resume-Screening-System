@@ -45,7 +45,18 @@ streamlit run main.py
 ## 📸 Project Output
 
 ### ATS Dashboard
-![ATS Dashboard](https://github.com/pidishettysandhya1/AI-Resume-Screening-System/raw/main/screenshots/dashboard.png)
+![ATS Dashboard](screenshots/dashboard.png)
 
 ### Candidate Ranking
-![Candidate Ranking](https://github.com/pidishettysandhya1/AI-Resume-Screening-System/raw/main/screenshots/ranking.png)
+![Candidate Ranking](screenshots/ranking.png)
+
+
+## Author
+
+👩‍💻 Sandhya Pidishetty 
+B.Tech Computer Science (AI & ML)
+
+Aspiring Software Engineer passionate about Java, Data Structures, and Artificial Intelligence.
+
+LinkedIn: https://linkedin.com/in/sandhya-pidishetty  
+GitHub: https://github.com/pidishettysandhya1
