@@ -44,10 +44,10 @@ streamlit run main.py
 ## 📸 Project Output
 
 ### ATS Dashboard
-![ATS Dashboard](https://github.com/pidishettysandhya1/AI-Resume-Screening-System/raw/main/screenshots/dashboard.png)
+![ATS Dashboard](screenshots/dashboard.png)
 
 ### Candidate Ranking
-![Candidate Ranking](https://github.com/pidishettysandhya1/AI-Resume-Screening-System/raw/main/screenshots/ranking.png)
+![Candidate Ranking](screenshots/ranking.png)
 
 
 ## Author
